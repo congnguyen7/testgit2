@@ -5,3 +5,4 @@ them commit 2 nhanh main
 them commit C3 nhanh main
 
 them commit C4 nhanh main
+Them code cho commit B2 ne
