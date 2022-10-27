@@ -1,3 +1,5 @@
 them commit 1
 
 them commit 2 nhanh main
+
+Them code cho commit B2 ne
